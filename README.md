@@ -3,4 +3,4 @@ A PowerShell script that spawns a Gui for checking expiring certificates within 
 
 Powershell Command to Run Script: 
 
-iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/AlecMcCutcheon/Expiring-Certificates-Gui/main/ExpiringCertificates.ps1')) }
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/AlecMcCutcheon/Expiring-Certificates-Gui/main/ExpiringCertificates.ps1'))
